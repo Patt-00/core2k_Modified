@@ -1,0 +1,10 @@
+__pycache__/
+*.py[cod]
+*.colpkg
+*.anki2
+*.anki21*
+reports/
+updates/
+*.log
+.env
+.venv/
